@@ -1,3 +1,3 @@
 <img src="header.svg" />
 
-A Chrome extension to blacklist URLs from entering Chrome's history.
+A ~~Chrome~~ Brave extension to blacklist URLs from entering Brave's history.
